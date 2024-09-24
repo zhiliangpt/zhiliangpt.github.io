@@ -1301,7 +1301,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-dOJqHpHOify7mY\/pUPyeKodokRJJBy5mTOd3K+a+SRk=",
+      "hash": "sha256-6TZSZLhyfsPMmdqto\/hEzm6gElG1fVFc6khxpmwKgMs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1633,35 +1633,35 @@
       "url": "_framework\/System.Xml.XDocument.wasm"
     },
     {
-      "hash": "sha256-1FOJeaRi9FLjPUX9bjWgtOHxMqbPXBtHvY0NOMPHaRk=",
+      "hash": "sha256-e+CGABNt5BmCt\/sGaSTxcHAPsiDImZKlhEvDDtUwthQ=",
       "url": "_framework\/ZhiLiangPt.Client.Service.wasm"
     },
     {
-      "hash": "sha256-YzHLLgRzv1a5WtLnu4lFINQD5FbgoAeQtlVVGzhi2Wk=",
+      "hash": "sha256-d3IGWBypC6niTZ+SrNJNjc5tseLV3ZW4YyyAeHiug3c=",
       "url": "_framework\/ZhiLiangPt.Client.wasm"
     },
     {
-      "hash": "sha256-FU8SMaxSd0DVDFSi0IWKgOySIkJmx\/\/pDemkb2okwvE=",
+      "hash": "sha256-y1j9BQMM9pGhTCHqaOlXSGo9e56FxkGWxQObCdNklhg=",
       "url": "_framework\/ZhiLiangPt.Core.wasm"
     },
     {
-      "hash": "sha256-nUSiWvR00aWfEDd9zOEEgd3c1cRA5PW0wwMhlFayI4A=",
+      "hash": "sha256-qT8c5bRLw8mYAy8Z33Gs1T0x7v9ZTAFXvBackY3UwjQ=",
       "url": "_framework\/ZhiLiangPt.DataContract.wasm"
     },
     {
-      "hash": "sha256-IPUPXB9Op8sKXnM4yI6UZAHkHnaffhK\/5L71H7fEYGw=",
+      "hash": "sha256-DeM43ksrSQ5gsFxFB6+1YjWlY4mMerxYn4O4S266zCo=",
       "url": "_framework\/ZhiLiangPt.Library.wasm"
     },
     {
-      "hash": "sha256-eK2BYsyoSg20qxPeXylhwvPZ69vlDHFbQYTqo4Teg8M=",
+      "hash": "sha256-G4KnNjrKVvYWf7jdJL\/3AXFHzmrawzoxXRpWokcpyrk=",
       "url": "_framework\/ZhiLiangPt.Structure.wasm"
     },
     {
-      "hash": "sha256-Mtg0L\/q9VGxJuLXTEAm83Xiq\/S2FfgjEf1F+mhqcZmY=",
+      "hash": "sha256-dlJENh0UTQTBK09Drs12JUTXxZ5h+T8n0bjLM7VvKO8=",
       "url": "_framework\/ZhiLiangPt.UI.wasm"
     },
     {
-      "hash": "sha256-9ptecfv51XxSmEJp7AzEf67zdfjwD7Dl85nRRSRJdQQ=",
+      "hash": "sha256-6cvD6skrUOeJpV9TTqcnAWLvDbgpvDogtUEv+h17tIg=",
       "url": "_framework\/ZhiLiangPt.Web.wasm"
     },
     {
@@ -1897,5 +1897,5 @@
       "url": "_content\/ZhiLiangPt.Web\/ZhiLiangPt.Web.bundle.scp.css"
     }
   ],
-  "version": "ERVM1TnP"
+  "version": "Ya97Ry+3"
 };

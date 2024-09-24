@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ZhiLiangPt.Client",
   "resources": {
-    "hash": "sha256-Icckz87Yzlea7SmE8XOlbG5hw/W/u4TMi9AAzxe4hew=",
+    "hash": "sha256-0L7Dg1UZ9JpfOwm9iGO70vv/H+PE7JZpS3ZGauWBc9A=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.746giovk6l.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -99,14 +99,14 @@
       "System.Xml.Linq.wasm": "sha256-HlRrZVV0I3aFROhHHNi0l7sg1EQtWzq9yru1hwa+ooY=",
       "System.Xml.ReaderWriter.wasm": "sha256-+AWdB7f0h+Oa9yBTUtA6RO5Wq0fRKsaSeALxPqeY0FI=",
       "System.Xml.XDocument.wasm": "sha256-BNfH92A0LaMfznE7NQFrfL0X1sP66dAMlr+F3zCOsfg=",
-      "ZhiLiangPt.Client.Service.wasm": "sha256-1FOJeaRi9FLjPUX9bjWgtOHxMqbPXBtHvY0NOMPHaRk=",
-      "ZhiLiangPt.Client.wasm": "sha256-YzHLLgRzv1a5WtLnu4lFINQD5FbgoAeQtlVVGzhi2Wk=",
-      "ZhiLiangPt.Core.wasm": "sha256-FU8SMaxSd0DVDFSi0IWKgOySIkJmx//pDemkb2okwvE=",
-      "ZhiLiangPt.DataContract.wasm": "sha256-nUSiWvR00aWfEDd9zOEEgd3c1cRA5PW0wwMhlFayI4A=",
-      "ZhiLiangPt.Library.wasm": "sha256-IPUPXB9Op8sKXnM4yI6UZAHkHnaffhK/5L71H7fEYGw=",
-      "ZhiLiangPt.Structure.wasm": "sha256-eK2BYsyoSg20qxPeXylhwvPZ69vlDHFbQYTqo4Teg8M=",
-      "ZhiLiangPt.UI.wasm": "sha256-Mtg0L/q9VGxJuLXTEAm83Xiq/S2FfgjEf1F+mhqcZmY=",
-      "ZhiLiangPt.Web.wasm": "sha256-9ptecfv51XxSmEJp7AzEf67zdfjwD7Dl85nRRSRJdQQ="
+      "ZhiLiangPt.Client.Service.wasm": "sha256-e+CGABNt5BmCt/sGaSTxcHAPsiDImZKlhEvDDtUwthQ=",
+      "ZhiLiangPt.Client.wasm": "sha256-d3IGWBypC6niTZ+SrNJNjc5tseLV3ZW4YyyAeHiug3c=",
+      "ZhiLiangPt.Core.wasm": "sha256-y1j9BQMM9pGhTCHqaOlXSGo9e56FxkGWxQObCdNklhg=",
+      "ZhiLiangPt.DataContract.wasm": "sha256-qT8c5bRLw8mYAy8Z33Gs1T0x7v9ZTAFXvBackY3UwjQ=",
+      "ZhiLiangPt.Library.wasm": "sha256-DeM43ksrSQ5gsFxFB6+1YjWlY4mMerxYn4O4S266zCo=",
+      "ZhiLiangPt.Structure.wasm": "sha256-G4KnNjrKVvYWf7jdJL/3AXFHzmrawzoxXRpWokcpyrk=",
+      "ZhiLiangPt.UI.wasm": "sha256-dlJENh0UTQTBK09Drs12JUTXxZ5h+T8n0bjLM7VvKO8=",
+      "ZhiLiangPt.Web.wasm": "sha256-6cvD6skrUOeJpV9TTqcnAWLvDbgpvDogtUEv+h17tIg="
     }
   },
   "cacheBootResources": true,
